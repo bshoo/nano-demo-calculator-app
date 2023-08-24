@@ -14,7 +14,6 @@ def add():
 
 # def greeting():
 #     return 'Hello There'
-
 # @app.route("/calculator/add", methods=['POST'])
 # def add():
 #     data = requests.get_json()
